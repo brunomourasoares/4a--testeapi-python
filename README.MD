@@ -27,7 +27,9 @@ API RESTful para busca e consulta de informações sobre operadoras de planos de
 │   └── operadora_router.py     # Rotas da API
 ├── services/
 │   └── operadora_service.py    # Lógica de negócios
-└── main.py                     # Ponto de entrada da aplicação
+├── LICENSE.md                  # Arquivo de licença
+├── main.py                     # Ponto de entrada da aplicação
+└── README.md                   # Arquivo de instrução
 ```
 
 ## Configuração e Instalação
