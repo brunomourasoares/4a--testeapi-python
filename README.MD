@@ -41,8 +41,8 @@ API RESTful para busca e consulta de informações sobre operadoras de planos de
 
 1. Clone o repositório:
 ```bash
-git clone <url-do-repositorio>
-cd <nome-do-repositorio>
+git clone https://github.com/brunomourasoares/4a--testeapi-python.git
+cd 4a--testeapi-python
 ```
 
 2. Instale as dependências:
