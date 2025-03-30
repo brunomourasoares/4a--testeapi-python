@@ -148,9 +148,6 @@ Representa uma operadora de plano de saúde registrada na ANS.
 - `representante`: Nome do representante legal
 
 ## Licença
+[MIT License](./License.md)
 
-[Especifique a licença do projeto]
-
----
-
-Desenvolvido por IntuitiveCare
+Desenvolvido por [Bruno Moura Soares](https://www.linkedin.com/in/brunomsoares/)
