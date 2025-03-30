@@ -56,7 +56,12 @@ pip install -r requirements.txt
    - Crie um banco de dados PostgreSQL chamado `ans_database`
    - O usuário padrão é `python` com senha `python123456` (altere conforme necessário no arquivo database.py)
 
-4. Execute a aplicação:
+4. Execute o VENV
+```bash
+.\venv\Scripts\activate
+```
+
+5. Execute a aplicação
 ```bash
 uvicorn main:app --reload
 ```
