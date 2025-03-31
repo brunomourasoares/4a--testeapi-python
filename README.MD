@@ -157,4 +157,5 @@ Representa uma operadora de plano de saúde registrada na ANS.
 ## Licença
 [MIT License](./License.md)
 
+## Autor
 Desenvolvido por [Bruno Moura Soares](https://www.linkedin.com/in/brunomsoares/)
